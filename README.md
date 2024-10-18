@@ -16,21 +16,17 @@ Tools: Postman for API testing
 Installation
 
 Clone the repository:
-bash
 Copy code
 git clone https://github.com/yourusername/short-url-project.git
 Navigate to the project directory:
-bash
 Copy code
 cd short-url-project
 
 Install dependencies:
-bash
 Copy code
 npm install
 
 Start the application:
-bash
 Copy code
 npm start
 Open your browser and visit http://localhost:3000 to access the app.
